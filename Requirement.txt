@@ -1,4 +1,5 @@
 streamlit
+poppler
 groq
 tesseract
 langchain
