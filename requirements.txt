@@ -2,6 +2,7 @@ streamlit
 groq
 langchain
 langchain-community
+unstructured
 unstructured[all-docs]
 langchain-chroma
 langchain-huggingface
