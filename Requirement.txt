@@ -4,5 +4,6 @@ sentence-transformers
 groq
 unstructured[pdf]
 pillow
+python-dotenv
 pdf2image
 pytesseract
