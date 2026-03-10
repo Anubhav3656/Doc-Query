@@ -1,0 +1,8 @@
+streamlit
+chromadb
+sentence-transformers
+groq
+unstructured[pdf]
+pillow
+pdf2image
+pytesseract
