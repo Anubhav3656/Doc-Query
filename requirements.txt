@@ -1,7 +1,5 @@
 streamlit
-poppler
 groq
-tesseract
 langchain
 langchain-community
 unstructured[all-docs]
@@ -9,4 +7,3 @@ langchain-chroma
 langchain-huggingface
 sentence-transformers
 python-dotenv
-langchain-text-splitters<1.0.0
