@@ -1,9 +1,11 @@
 streamlit
-chromadb
-sentence-transformers
 groq
-unstructured[pdf]
-pillow
+tesseract
+langchain
+langchain-community
+unstructured[all-docs]
+langchain-chroma
+langchain-huggingface
+sentence-transformers
 python-dotenv
-pdf2image
-pytesseract
+langchain-text-splitters<1.0.0
